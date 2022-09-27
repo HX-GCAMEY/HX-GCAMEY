@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gama</h1>
 <h3 align="center">IT enthusiast and Fullstack Developer</h3>
 
-![](https://user-images.githubusercontent.com/93209183/192536804-e694d134-a395-431a-b0df-5e448cd0671d.png =250x250)
-
-![image](https://user-images.githubusercontent.com/93209183/192536804-e694d134-a395-431a-b0df-5e448cd0671d.png =250x250)
+<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/93209183/192539053-4f01fa7d-4d28-4bd1-be42-5e59204e774a.png)"  width="100" height="200" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamalielcamey&label=Profile%20views&color=0e75b6&style=flat" alt="gamalielcamey" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gamalielcamey&label=Profile%20views&color=0e75b6&style=flat" alt="gamalielcamey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamalielcamey" alt="gamalielcamey" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamalielcamey" alt="gamalielcamey" /></a> </p>
 
 - 🌱 I’m currently learning **I'm currently on my search for the first opportunity as a developer and im really exited that you are in my page! I'll tell you a bit about my self! 😹**
 
