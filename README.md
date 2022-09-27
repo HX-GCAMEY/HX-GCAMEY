@@ -4,6 +4,8 @@
 
 ![gifsito](https://user-images.githubusercontent.com/93209183/192540142-1bb61deb-75ce-424a-b312-8f9ee4c5b1ff.gif | width=100)
 
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/93209183/192540142-1bb61deb-75ce-424a-b312-8f9ee4c5b1ff.gif)" width="200" height="300" />
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gamalielcamey&label=Profile%20views&color=0e75b6&style=flat" alt="gamalielcamey" /> </p>
 
