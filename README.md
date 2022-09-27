@@ -2,7 +2,7 @@
 <h3 align="center">IT enthusiast and Fullstack Developer</h3>
 
 
-![gifsito](https://user-images.githubusercontent.com/93209183/192540142-1bb61deb-75ce-424a-b312-8f9ee4c5b1ff.gif)
+![gifsito](https://user-images.githubusercontent.com/93209183/192540142-1bb61deb-75ce-424a-b312-8f9ee4c5b1ff.gif | width=100)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gamalielcamey&label=Profile%20views&color=0e75b6&style=flat" alt="gamalielcamey" /> </p>
