@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lic.camey@gmail.com**
 
-- 📄 Know about my experiences [I have a bachelors degree in culinary arts (yep I know this is really far from the kitchen! LOL) but I decided it wasnt my thing so I made the decision to geat a leap of faith and start my coding life from scratch, its been only a year but I feel I've made some huge progress and looking back I realize its been quite an adventure 🧙‍♂️ ...](I have a bachelors degree in culinary arts (yep I know this is really far from the kitchen! LOL) but I decided it wasnt my thing so I made the decision to geat a leap of faith and start my coding life from scratch, its been only a year but I feel I've made some huge progress and looking back I realize its been quite an adventure 🧙‍♂️ ...)
+- 📄 Know about my experiences [I have a bachelors degree in culinary arts (yep I know this is really far from the kitchen! LOL) but I decided it wasnt my thing so I made the decision to take a leap of faith and start my coding life from scratch, its been only a year but I feel I've made some huge progress and looking back I realize its been quite an adventure 🧙‍♂️ ...](I have a bachelors degree in culinary arts (yep I know this is really far from the kitchen! LOL) but I decided it wasnt my thing so I made the decision to geat a leap of faith and start my coding life from scratch, its been only a year but I feel I've made some huge progress and looking back I realize its been quite an adventure 🧙‍♂️ ...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
