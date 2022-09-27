@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gama</h1>
 <h3 align="center">IT enthusiast and Fullstack Developer</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/93209183/192543634-72d05778-8429-44d2-b60f-99f8803bfe48.gif" alt="octocat" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/93209183/192543634-72d05778-8429-44d2-b60f-99f8803bfe48.gif" alt="octocat" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamalielcamey&label=Profile%20views&color=0e75b6&style=flat" alt="gamalielcamey" /> </p>
