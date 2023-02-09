@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/93209183/192543634-72d05778-8429-44d2-b60f-99f8803bfe48.gif" alt="octocat" /> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamalielcamey&label=Profile%20views&color=0e75b6&style=flat" alt="gamalielcamey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hx-gcamey&label=Profile%20views&color=0e75b6&style=flat" alt="gamalielcamey" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamalielcamey" alt="gamalielcamey" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hx-gcamey" alt="gamalielcamey" /></a> </p>
 
 - 🌱 I’m currently learning **I'm currently on my search for the first opportunity as a developer and im really exited that you are in my page! I'll tell you a bit about my self! 😹**
 
@@ -25,8 +25,8 @@
 
 <p align="center"> <img src="https://www.codewars.com/users/GAMADRUGS/badges/large" alt="codewars" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamalielcamey&show_icons=true&locale=en&layout=compact" alt="gamalielcamey" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hx-gcamey&show_icons=true&locale=en&layout=compact" alt="gamalielcamey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamalielcamey&show_icons=true&locale=en" alt="gamalielcamey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hx-gcamey&show_icons=true&locale=en" alt="gamalielcamey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamalielcamey&" alt="gamalielcamey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hx-gcamey&" alt="gamalielcamey" /></p>
