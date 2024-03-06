@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lic.camey@gmail.com**
 
-- 📄 Know about my experiences [I have a bachelors degree in culinary arts (yep I know this is really far from the kitchen! LOL) but I decided it wasnt my thing so I made the decision to take a leap of faith and start my coding life from scratch, its been only a few years now but I feel I've made some huge progress and looking back I realize its been quite an adventure 🧙‍♂️ ...Right now Im working as a fullstack developer / Instructor at Soy Henry and I feel awesome about sharing what I know with others and at the same time learning and coding!!!]
+- 📄 Know about my experiences [I have a bachelors degree in culinary arts (yep I know this is really far from the kitchen! LOL) but I decided it wasnt my thing so I made the decision to take a leap of faith and start my coding life from scratch, its been only a few years now but I feel I've made some huge progress and looking back I realize its been quite an adventure 🧙‍♂️ .... Currently, I hold the role of Instructor/Content creator at Henry Bootcamp, where I have not only been imparting knowledge but also continuously enhancing my technical skills. In this role, I have had the privilege of lecturing to audiences of up to 250 students, covering a comprehensive range of topics within the Fullstack Developer Bootcamp.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
